@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://baglicaelektrik.com.tr/sitemap.xml
